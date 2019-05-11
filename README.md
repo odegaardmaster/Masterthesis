@@ -50,5 +50,9 @@ The matlab implementation of HCPLSR used for metamodelling:
 - HCPLSR_HH_plots.ipynb (Prediction results achived with HCPLSR metamodelling of the Hodgkin-Huxley model)
 - HCPLSR_PR_plots.ipynb (Prediction results achived with HCPLSR metamodelling of the Pinsky-Rinzel model)
 
-### 
+### Sensitivity Analaysis
+
+- HHagmatlab.ipynb
+- PRagmatlab.ipynb
+
 
