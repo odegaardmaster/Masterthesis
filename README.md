@@ -19,7 +19,7 @@ The somatic voltages are simulated first in batches, then assembled:
   
 ### Aggregated Features
 The agregated features was calculated in:
-- Aggregated_features.ipynb
+- Aggregated_features.ipynb (Aggregated features and other membrane potential behaviours.)
   
 ## Deep learning
 
