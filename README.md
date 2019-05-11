@@ -17,17 +17,38 @@ The somatic voltages are simulated first in batches, then assembled:
   
   - PR_simulation_assamble.py (assembler)
   
+### Aggregated Features
+The agregated features was calculated in:
+- Aggregated_features.ipynb
+  
 ## Deep learning
 
+### Models used in metamodelling of Hodgkin-Huxley model
+
+- HH_classical.ipynb
+- HH_classical_aggregated.ipynb
+- HH_inverse.ipynb
+
+### Models used in metamodelling of Pinsky-Rinzel model
+  
+- PR_classical.ipynb
+- PR_classical_aggregated.ipynb
+- PR_inverse.ipynb
 
 
 ## HCPLSR 
 
+### HCPLSR implimentation
+
 The matlab implementation of HCPLSR used for metamodelling:
-- (Calibrating models)
+- HPLSR.m (Calibrating models)
 
-- (Testing model)
+- HPLSRpred.m (Testing model)
 
+### HCPLSR plots
 
+- HCPLSR_HH_plots.ipynb (Prediction results achived with HCPLSR metamodelling of the Hodgkin-Huxley model)
+- HCPLSR_PR_plots.ipynb (Prediction results achived with HCPLSR metamodelling of the Pinsky-Rinzel model)
 
-  
+### 
+
