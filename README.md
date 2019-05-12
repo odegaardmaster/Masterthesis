@@ -1,5 +1,6 @@
 # Metamodelling of the Hodgkin-Huxley Model and the Pinsky-Rinzel Model Using Local Multivariate Regression and Deep Learning
-This repository is created for
+
+This repository is created for my master thesis, perfomered as a part of the  Master  program  in Data Science, at the Faculty of Science and Technology (REALTEK) at the Norwegian University of Life Sciences (NMBU) the spring 2019.
 
 
 ## Data Generation
