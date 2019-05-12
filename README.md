@@ -1,5 +1,5 @@
-# Masterthesis
-This repository is created for my master theses.
+# Metamodelling of the Hodgkin-Huxley Model and the Pinsky-Rinzel Model Using Local Multivariate Regression and Deep Learning
+This repository is created for
 
 
 ## Data Generation
