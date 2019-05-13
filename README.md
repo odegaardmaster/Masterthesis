@@ -26,15 +26,15 @@ The agregated features was calculated in:
 
 ### Models used in metamodelling of Hodgkin-Huxley model
 
-- HH_classical.ipynb
-- HH_classical_aggregated.ipynb
-- HH_inverse.ipynb
+- HH_classical.ipynb (Classical metamodelling)
+- HH_classical_aggregated.ipynb (Classical metamodelling of aggregated phenotypes)
+- HH_inverse.ipynb (Inverse metamodelling)
 
 ### Models used in metamodelling of Pinsky-Rinzel model
   
-- PR_classical.ipynb
-- PR_classical_aggregated.ipynb
-- PR_inverse.ipynb
+- PR_classical.ipynb (Classical metamodelling)
+- PR_classical_aggregated.ipynb (Classical metamodelling of aggregated phenotypes)
+- PR_inverse.ipynb (Inverse metamodelling)
 
 
 ## HCPLSR 
