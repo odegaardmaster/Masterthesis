@@ -44,9 +44,9 @@ The agregated features was calculated in:
 The matlab implementation of HCPLSR used for metamodelling:
 - HPLSR.m (Calibrating models)
 
-- HPLSRpred.m (Testing model)
+- HPLSRpred.m (Prediction model)
 
-- Example_HCPLSR.m (Example run of HCPLSR model and saving structures for plotting)
+- Example_HCPLSR.m (Example run of HCPLSR metamodelling and saving structures for plotting)
 
 ### HCPLSR plots
 
