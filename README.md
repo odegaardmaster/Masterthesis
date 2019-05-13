@@ -4,12 +4,12 @@ This repository is created for my master thesis, perfomered as a part of the  Ma
 
 
 ## Data Generation
-### Hodgkin-Huxley
+### the Hodgkin-Huxley model
 
 The parameter space and membrane potential used for metamodelling of Hodgkin-Huxley model are generated in:
   - HH_datagenerator.py
   
-### Pinsky-Rinzel
+### the Pinsky-Rinzel model
 The parameter space used in metamodelling of Hodgkin-Huxley model is generated in:
   - PR_samplespace_generator.py
   
