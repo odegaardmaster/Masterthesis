@@ -37,16 +37,7 @@ The agregated features was calculated in:
 - PR_inverse.ipynb (Inverse metamodelling)
 
 
-## HCPLSR 
-
-### HCPLSR implimentation
-
-The matlab implementation of HCPLSR used for metamodelling:
-- HPLSR.m (Calibrating models)
-
-- HPLSRpred.m (Prediction model)
-
-- Example_HCPLSR.m (Example run of HCPLSR metamodelling and saving structures for plotting)
+## HCPLSR
 
 ### HCPLSR plots
 
